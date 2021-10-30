@@ -8,7 +8,6 @@ public class HomeWork2 {
         printNumbers("Hi", 5);
     }
 
-
     private static boolean twoNumbers ( int first, int second) {
         int sum = first + second;
         return sum <= 20 && sum >= 10;
