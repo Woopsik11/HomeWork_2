@@ -13,7 +13,6 @@ public class HomeWork2 {
         return sum <= 20 && sum >= 10;
     }
 
-
     private static boolean isPositive(int variable) {
         return variable >= 0;
     }
